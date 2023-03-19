@@ -1,0 +1,4 @@
+Name: unkelTech::Rex::Ceph
+Description: Module to deploy Ceph Cluster
+Author: jan gehring <dunkel.tech2022@gmail.com>
+License: Apache 2.0

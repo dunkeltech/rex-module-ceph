@@ -1,0 +1,5 @@
+.vscode
+*.sw*
+*.conf
+*.ini
+*.pl
